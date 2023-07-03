@@ -1,4 +1,4 @@
-use substrate_bn::{Group, Fr, G1, G2, pairing};
+use findora_bn::{Group, Fr, G1, G2, pairing};
 
 fn main() {
     let rng = &mut rand::thread_rng();

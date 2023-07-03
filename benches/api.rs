@@ -1,6 +1,6 @@
 #![feature(test)]
 
-use substrate_bn::*;
+use findora_bn::*;
 
 const SAMPLES: usize = 30;
 
